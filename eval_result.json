@@ -1,18 +1,22 @@
 {
   "exercises": [
     {
-      "name": "model.rs",
+      "name": "modules2.rs",
       "result": true
     },
     {
-      "name": "operators.rs",
+      "name": "modules3.rs",
+      "result": true
+    },
+    {
+      "name": "modules1.rs",
       "result": true
     }
   ],
   "statistics": {
-    "total_exercations": 2,
-    "total_succeeds": 2,
+    "total_exercations": 3,
+    "total_succeeds": 3,
     "total_failures": 0,
-    "total_time": 30
+    "total_time": 0
   }
 }
