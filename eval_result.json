@@ -1,34 +1,30 @@
 {
   "exercises": [
     {
-      "name": "errors6.rs",
+      "name": "iterators1.rs",
       "result": true
     },
     {
-      "name": "errors2.rs",
-      "result": true
+      "name": "iterators2.rs",
+      "result": false
     },
     {
-      "name": "errors5.rs",
-      "result": true
+      "name": "iterators3.rs",
+      "result": false
     },
     {
-      "name": "errors3.rs",
-      "result": true
+      "name": "iterators5.rs",
+      "result": false
     },
     {
-      "name": "errors4.rs",
-      "result": true
-    },
-    {
-      "name": "errors1.rs",
-      "result": true
+      "name": "iterators4.rs",
+      "result": false
     }
   ],
   "statistics": {
-    "total_exercations": 6,
-    "total_succeeds": 6,
-    "total_failures": 0,
-    "total_time": 1
+    "total_exercations": 5,
+    "total_succeeds": 1,
+    "total_failures": 4,
+    "total_time": 0
   }
 }
